@@ -1,4 +1,4 @@
 # Embedded-System
-# Dapat disumulasikan menggunakan SIMULIDE
-# Menggunakan Arduino Uno
-# Untuk melihat output bisa menggunakan serial monitor
+1. Dapat disumulasikan menggunakan SIMULIDE
+2. Menggunakan Arduino Uno
+3. Untuk melihat output bisa menggunakan serial monitor
